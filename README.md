@@ -98,6 +98,11 @@ This project sets up a honeypot in Microsoft Azure by deploying a virtual machin
 <img src="https://i.imgur.com/RE3pWKh.png" height="80%" width="80%" alt=""/>
 <br />
 
+<h3>World map of incoming attacks after 4 days</h3> <br/>
+
+<img src="https://i.imgur.com/rmatG2S.png" height="80%" width="80%" alt=""/>
+<br />
+
 <h2>Final Thoughts</h2>
 <p>
     This project gave me hands-on experience with deploying and monitoring a honeypot environment in Microsoft Azure. It provided valuable insight into real-world cyberattacks and demonstrated how to collect, forward, and analyze logs using Microsoft Sentinel. Setting up the attack map using enriched IP data helped visualize threats geographically, offering a clearer understanding of global attack patterns. This project not only strengthened my knowledge of cloud-based security monitoring but also improved my skills with KQL, SIEM tools, and log analysis.
